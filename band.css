@@ -1,0 +1,27 @@
+.sidebar{
+  width: 15%;
+  float: left;
+  background-color: teal;
+  padding: 20px;
+  margin: 40px;
+}
+img{
+  width: 50%;
+  float:right;
+  margin: 40px;
+}
+p{
+  padding: 20px;
+  margin: 20px;
+
+
+}
+h1{
+  color: red;
+  text-shadow: 50%;
+  font-weight: 300;
+  text-align: center;
+}
+.head{
+  margin-top: 300px;
+}
